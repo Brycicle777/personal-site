@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>brycicle</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on brycicle</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Sep 2024 21:00:26 -0700</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Wed, 11 Sep 2024 21:00:26 -0700</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;I am learning Hugo. Look, &lt;strong&gt;bold&lt;/strong&gt; text!&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;m Brycicle on X, and this is the blog that I promised.&#xA;I really ought to have a more meaningful first post to my site, but I spent most of my side project time on getting the thing up and running.&#xA;This website is currently using Hugo to manage the content and GitHub Pages to host it.&#xA;I&amp;rsquo;m no expert on the stuff, but there&amp;rsquo;s plenty of tutorials and documentation online (plus LLMs).&#xA;I&amp;rsquo;d definitely recommend the combination if you want a simple static site with some blog content (I don&amp;rsquo;t have any meaningful links up yet, but I can&amp;rsquo;t imagine those are too hard to add once I learn Hugo more).&#xA;No reason to pay for hosting or a blog service if your needs are simple and static, and you could even go simpler with something like &lt;a href=&#34;https://bearblog.dev/&#34;&gt;bearblog.dev&lt;/a&gt; if you don&amp;rsquo;t want a custom domain.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
