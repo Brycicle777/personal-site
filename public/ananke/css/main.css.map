@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/bryce/workspace/github.com/Brycicle777/personal-site",
+	"sourceRoot": "/Users/bryce/workspace/personal-site",
 	"sources": [
 		"ananke/css/main.css"
 	],

@@ -7,7 +7,6 @@ draft = false
 
 Recently on X, there was a small movement proclaiming the value of marriage.
 These are my thoughts on the matter.
-Note to reader: this article is an incomplete draft, but it is online so I can share it with those I'd like to review it.
 
 ## Declaring the Base
 As a Christian, there are certain things I believe about marriage as a direct result of Scripture, and some of those principles are foundational to the conclusions I will draw in this article.
